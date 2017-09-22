@@ -1,0 +1,6 @@
+
+#ifndef MYXMAT_CONFIG_HEADER
+#define MYXMAT_CONFIG_HEADER
+
+
+#endif /* MYXMAT_CONFIG_HEADER */

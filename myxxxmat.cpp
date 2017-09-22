@@ -1,8 +1,8 @@
 // myxxxmat.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
-
+#include "matrix.h"
+#include "config.h"
 
 int main()
 {
